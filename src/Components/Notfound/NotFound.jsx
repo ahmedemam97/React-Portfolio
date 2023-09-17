@@ -1,0 +1,13 @@
+import React from 'react'
+
+export default function NotFound() {
+    return (
+        <div className="container">
+            <div className="row">
+            <div className="not-found">
+                <h1>Page Not Found</h1>
+                </div>
+            </div>
+        </div>
+    )
+}
