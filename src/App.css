@@ -450,6 +450,7 @@ footer {
 
 .not-found h1 {
   font-size: 50px;
-
+  color: var(--secondDark-color);
 }
+
 /* End Not Found */
